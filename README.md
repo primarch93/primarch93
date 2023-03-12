@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 
 
 <div id="badges">
@@ -12,4 +12,7 @@
   <a href="/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=primarch93&style=flat-square&color=blue" alt=""/>
 </div>
+

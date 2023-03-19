@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/sugonegor">
     <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="/">
+  <a href="https://www.linkedin.com/in/kravchenko-yehor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>

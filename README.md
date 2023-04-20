@@ -30,7 +30,7 @@
     
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
     
-  :mailbox:How to reach me: [![https://www.linkedin.com/in/kravchenko-yehor](https://img.shields.io/badge/-Primarch93-blue?style=flat&logo=Linkedin&logoColor=white)]()
+  :mailbox:How to reach me: <a href="https://web.telegram.org/k/#@Egorin93"[![](https://img.shields.io/badge/-Primarch93-blue?style=flat&logo=Linkedin&logoColor=white)]()>
     
  ---
     

@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
-  <div>
-  <img src="https://komarev.com/ghpvc/?username=primarch93&style=flat-square&color=blue" alt=""/>
-  
+  <div> 
+    
+    
   ---
   
   <h1>

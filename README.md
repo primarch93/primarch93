@@ -1,4 +1,7 @@
 <div id="header" align="center">
+
+# Hello, my name is Yehor! 👋
+
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
   
   
@@ -18,19 +21,18 @@
     
   ---
   
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-    </div>
+
+  
   <div align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="300"/>
     
   ---
     
-   👨‍💻: About Me :
+
+
+   
     
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
     
   :mailbox:How to reach me: [![](https://img.shields.io/badge/-Primarch93-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kravchenko-yehor/)
     

@@ -48,10 +48,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     
  ---
+
+
     
 :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarch93&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=primarch93&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
     
 ![статистика GitHub](https://github-readme-stats.vercel.app/api?username=primarch93&show_icons=true&theme=radical)
 </div>
